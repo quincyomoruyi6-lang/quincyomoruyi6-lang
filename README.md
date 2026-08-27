@@ -4,9 +4,9 @@
 
 I'm a cybersecurity enthusiast focused on understanding **how systems work, how vulnerabilities happen,how to break them and how to secure them**.
 
-Currently building my skills through **hands-on labs, Python projects, ethical hacking practice, and web security research**.
+Currently building my skills through **hands-on labs, Python projects, ethical hacking practice, and web & IOT security research**.
 
-> **Learn. Build. Break ethically. Understand. Secure. Repeat.** 🔥
+> **Learn. Build. Break. Understand. Secure. Repeat.** 🔥
 
 ---
 
@@ -25,10 +25,8 @@ Currently building my skills through **hands-on labs, Python projects, ethical h
 
 ```text
 🎯 Ethical Hacking
-├── Network Fundamentals
-├── Linux
 ├── Web Application Security
-├── Penetration Testing
+├── IOT hacking
 └── Exploit Development Fundamentals
 
 🌐 Web Security
@@ -73,7 +71,6 @@ Currently building my skills through **hands-on labs, Python projects, ethical h
 Web Applications  ████████████████████  🎯 learning 
 IoT Security      ███████████████       🔬 Exploring (next up)
 Python            ████████████████      🛠️ Building
-Networking        ██████████████        📚 finished
 ```
 
 ---
