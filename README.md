@@ -1,187 +1,216 @@
-# 👋 Hey, I'm Quincy aka QuineX
+👋 Yo, I'm Quincy — aka QuineX
 
-### 🔐 Cybersecurity | 🌐 Web Security | 📡 IoT Security | 🐍 Python
+🥷 CYBERSECURITY • 🌐 WEB SECURITY • 📡 IoT • 🛸 DRONES • 🐍 PYTHON
 
-I'm a cybersecurity enthusiast focused on understanding **how systems work, how vulnerabilities happen,how to break them and how to secure them**.
+I'm obsessed with understanding how things work beneath the surface.
 
-Currently building my skills through **hands-on labs, Python projects, ethical hacking practice, and web & IOT security research**.
+Web applications. Connected devices. IoT systems. Networks. Hardware. Drones. ⚙️
 
-> **Learn. Build. Break. Understand. Secure. Repeat.** 🔥
+I don't just want to use technology.
 
----
-
-## 🧠 About Me
-
-* 🔐 Learning **Ethical Hacking & Penetration Testing**
-* 🌐 Interested in **Web Application Security**
-* 📡 Exploring **IoT Security** (Main specialization)
-* 🐍 Building projects with **Python**
-* 🧪 Learning through **hands-on labs and practical experimentation**
-* 🎯 Focused on becoming a skilled cybersecurity professional
+«I want to understand it. Build with it. Break it ethically. Secure it. Then go deeper. ☠️⚡»
 
 ---
 
-## ⚡ Currently Learning
+🧠 WHO AM I?
 
-```text
-🎯 Ethical Hacking
-├── Web Application Security
-├── IOT hacking
-└── Exploit Development Fundamentals
+[ Quincy.exe ]
 
-🌐 Web Security
+STATUS: Building...
+MODE: Obsessed with learning
+TARGETS:
+    → Web Applications 🌐
+    → IoT Devices 📡
+    → Drones & Embedded Tech 🛸
+    → Security Research 🥷
+
+- 🥷 Learning Ethical Hacking & Penetration Testing
+- 🌐 Exploring Web Application Security
+- 📡 Diving into IoT Security
+- 🛸 Seriously obsessed with Drones, UAVs & how they work
+- ⚙️ Interested in hardware, embedded systems and connected devices
+- 🐍 Building with Python
+- 🧪 Learning through hands-on labs, projects and experimentation
+- 🧠 Always trying to understand what's actually happening under the hood
+
+---
+
+⚡ CURRENTLY LEARNING
+
+🥷 ETHICAL HACKING
+├── 🌐 Web Application Security
+├── 📡 IoT Security
+├── 🛸 Drone & UAV Technology
+└── 🧠 Exploit Development Fundamentals
+
+
+🌐 WEB SECURITY
 ├── SQL Injection
 ├── Cross-Site Scripting (XSS)
 ├── Authentication Vulnerabilities
 ├── Access Control
 └── Server-Side Vulnerabilities
 
-🐍 Python
+
+📡 IoT & HARDWARE
+├── Connected Devices
+├── IoT Communication
+├── Embedded Systems
+└── IoT Security Research
+
+
+🛸 DRONES
+├── Drone Technology
+├── UAV Systems
+├── Flight Systems
+└── Exploring Drone Security
+
+
+🐍 PYTHON
 ├── Automation
 ├── Scripting
 ├── APIs
 └── Security Tools
-```
 
 ---
 
-## 🛠️ Skills & Tools
+🛠️ TOOLS OF THE TRADE
 
-### 💻 Operating Systems
+💻 SYSTEMS
 
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+"Linux" (https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+"Windows" (https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)
+"Kali Linux" (https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-### 👨‍💻 Languages
+🐍 CODE
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+"Python" (https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 
-### 🔐 Cybersecurity
+🥷 SECURITY
 
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge\&logo=burpsuite\&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge\&logo=nmap\&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
-
----
-
-## 🧪 My Focus
-
-```text
-Web Applications  ████████████████████  🎯 learning 
-IoT Security      ███████████████       🔬 Exploring (next up)
-Python            ████████████████      🛠️ Building
-```
+"Burp Suite" (https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=white)
+"Nmap" (https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+"Wireshark" (https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
 
-## 🚀 Current Mission
+🎯 MY OBSESSIONS
 
-I'm focused on becoming highly skilled in:
-
-🌐 **Web Application Security**
-📡 **IoT Security Research**
-🐍 **Python Security Automation**
-🔐 **Penetration Testing**
-
-I believe the best way to learn cybersecurity is to:
-
-```text
-Understand the technology
-        ↓
-Build with it
-        ↓
-Test it ethically
-        ↓
-Understand vulnerabilities
-        ↓
-Learn how to break it
-        ↓
-Learn how to defend it
-```
+🌐 Web Applications     ████████████████████
+🥷 Cybersecurity        ████████████████████
+📡 IoT & Connected Tech ██████████████████
+🛸 Drones & UAVs        ██████████████████
+🐍 Python               ████████████████
+⚙️ How Things Work      ████████████████████
 
 ---
 
-## 🧰 Projects
+🚀 THE MISSION
 
-🚧 **Currently building...**
+I'm building toward a future in:
 
-I'm working on improving my skills by creating projects related to:
+«🌐 Web Application Security
+📡 IoT & Connected Device Security
+🛸 Drone / UAV Technology & Security
+🐍 Python Security Automation
+🥷 Penetration Testing & Security Research»
 
-* 🐍 Python automation
-* 🤖 Telegram bots
-* 🔐 Security tools
-* 🌐 Web security projects
-* 📡 IoT experiments and projects
+The goal isn't to collect tools.
 
-> Check back soon — more projects are coming. 🔥
+The goal is to understand systems deeply enough to know:
 
----
-
-## 📚 Learning Platforms
-
-🎓 **TCM Security Academy / Training**
-
-🌐 **PortSwigger Web Security Academy**
-
-🌐 **Hack The Box Academy**
-
-🧪 **Hands-on labs and practical projects**
+HOW IT WORKS
+      ↓
+HOW TO BUILD IT
+      ↓
+HOW IT CAN FAIL
+      ↓
+HOW IT CAN BE TESTED ETHICALLY
+      ↓
+HOW IT CAN BE SECURED
 
 ---
 
-## 💭 Mindset
+🧪 PROJECTS & EXPERIMENTS
 
-> "Don't just run the tool. Understand what the tool is doing."
+🚧 Currently building and learning in public...
 
-```text
-❌ Copy commands
-❌ Memorize exploits
-❌ Depend completely on tools
+Things I'm interested in creating:
 
-✅ Understand the system
-✅ Understand the vulnerability
-✅ Understand the attack
-✅ Understand the defense
-```
+- 🐍 Python automation & security tools
+- 🤖 Automation bots
+- 🌐 Web security projects
+- 📡 IoT experiments
+- ⚙️ Hardware & connected-device projects
+- 🛸 Drone-related experiments and projects
+- 🧪 Practical cybersecurity research
+
+STATUS: UNDER CONSTRUCTION ⚡
+MORE PROJECTS INCOMING...
 
 ---
 
-## 📈 GitHub Stats
+📚 WHERE I LEARN
+
+- 🥷 TCM Security Training
+- 🌐 PortSwigger Web Security Academy
+- 🧪 Hands-on labs & practical projects
+- ⚙️ Building things and breaking my own understanding
+- 📚 Documentation, research and experimentation
+
+---
+
+🧠 MINDSET
+
+«Don't just run the tool. Know what the tool is actually doing.»
+
+☠️ DON'T:
+├── Copy commands blindly
+├── Memorize exploits without understanding
+└── Depend completely on automated tools
+
+
+⚡ DO:
+├── Understand the technology
+├── Understand the system
+├── Understand the vulnerability
+├── Understand the attack
+└── Understand the defense
+
+---
+
+📈 GITHUB STATS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
+</p><p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>---
+
+🌍 CONNECT
+
+🐙 GitHub: "github.com/quincyomoruyi6-lang"
+
+📧 Email: "quinex_amd@proton.me"
+
+---
+
+⚡ FUN FACT
+
+I'm the type of person who can look at a drone,
+a website, a random IoT device or a piece of technology
+and immediately start wondering:
+
+"How the hell does this thing actually work?" 🧠⚙️🛸
+
+---
+
+<p align="center">⚡ BREAK. BUILD. UNDERSTAND. REPEAT.
+
+Thanks for stopping by.
+
+🕷️ Explore the repositories.
+⚙️ Watch the projects grow.
+🥷 The journey is just getting started.
+
 </p>
-
----
-
-## 🌍 Connect With Me
-
-💻 **GitHub:** `github.com/quincyomoruyi6-lang`
-
-📧 **Email:** `quinex_amd@proton.me`
-
----
-
-## ⚡ Fun Fact
-
-```text
-I am a big nerd
-```
-
----
-
-<p align="center">
-
-### Break & Build
-
-**Thanks for visiting my profile!**
-
-⭐ Feel free to explore my repositories.
-
-</p>
-
