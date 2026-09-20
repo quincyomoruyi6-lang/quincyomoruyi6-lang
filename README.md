@@ -1,76 +1,31 @@
-# 👋 Hey, I'm Quincy — aka QuineX
+# Hey, I'm Quincy — aka QuineX 🕶🤏
 
-### 🥷 Cybersecurity | 🌐 Web Security | 📡 IoT | 🛸 Drones | 🐍 Python
-
-I'm obsessed with understanding **how things actually work beneath the surface**.
-
+☢️ I'm obsessed with understanding **how things actually work beneath the surface**.
 Web applications. Connected devices. IoT. Networks. Hardware. Drones. ⚙️
 
-I don't just want to use technology.
+//......It all started with me always being nerdy moving through the years of learning html css networking python and the core hacking methodology.
+When I thought there wasn't any progress I was so stupid on how far I have come though am not yet where I want to be but I have gotten to a point where I could independently handle stuffs 
 
-> **I want to understand it. Build with it. Break it ethically. Secure it. Then go deeper. ⚡**
-
----
-
-## 🧠 About Me
-
-- 🥷 Learning **Ethical Hacking & Penetration Testing**
-- 🌐 Focused on **Web Application Security**
-- 📡 Exploring **IoT Security**
-- 🛸 Obsessed with **Drones & UAV Technology**
-- ⚙️ Interested in **Hardware, Connected Devices & How Technology Works**
-- 🐍 Building projects with **Python**
-- 🧪 Learning through **Hands-on Labs & Practical Experimentation**
+> **//.......I want to understand systems. Build with them. Break them nerdy. Secure it like the bag. Then go deeper. **
 
 ---
 
-## 🎯 My Main Obsessions
+## 📛 About Me
 
-- 🌐 **Web Application Security**
-- 🥷 **Cybersecurity & Ethical Hacking**
-- 📡 **IoT & Connected Technology**
-- 🛸 **Drones & UAV Technology**
-- 🐍 **Python & Automation**
-- ⚙️ **Hardware, Systems & How Things Work**
+- 🔞 Learning **Ethical Hacking & Penetration Testing**
+- Focused on **Web Application Security Currently **
+- □ moving into **IoT Security** when done with web hacking
+- □ Obsessed with **Drones & UAV Technology** even tho I haven't gotten one yet its my passion and currently practicing on my simulator
+- □ Interested in **Hardware, Connected Devices & How Technology Works** cause i want to pivot into UAV hacking and security 
+- □ Building projects with **Python** and  Mostly automating my web workflows when I got time
+- □ Learning through **Hands-on Labs & Practical Experimentation** sometimes find it hard documenting but its part of the grind and discipline 
 
 ---
 
-## ⚡ Currently Learning
-
-### 🥷 Cybersecurity
-
-- Web Application Security
-- Ethical Hacking & Penetration Testing
-- Exploit Development Fundamentals
-
-### 🌐 Web Security
-
-- SQL Injection
-- Cross-Site Scripting (XSS)
-- Authentication Vulnerabilities
-- Access Control
-- Server-Side Vulnerabilities
-
-### 📡 IoT & Connected Technology
-
-- Connected Devices
-- IoT Communication
-- Embedded Systems
-- IoT Security
-
-### 🛸 Drones & UAVs
-
-- Drone Technology
-- UAV Systems
-- Flight Systems
-- Exploring Drone Security
-
-### 🐍 Python
-
-- Automation
-- Scripting
-- APIs
-- Security Tools
+## Obsessions
+- ♤ **Shenanigans**
+- ♤ **Space and Aero**
+- ♤ **Drones & UAV Technology**
 
 ---
 
@@ -86,6 +41,9 @@ I don't just want to use technology.
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+
 ### 🥷 Cybersecurity
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -94,15 +52,14 @@ I don't just want to use technology.
 
 ---
 
-## 🚀 Current Mission
+## ¤ Current Mission
 
 I'm building toward becoming highly skilled in:
 
-- 🌐 **Web Application Security**
-- 📡 **IoT & Connected Device Security**
-- 🛸 **Drone / UAV Technology & Security**
-- 🐍 **Python Security Automation**
-- 🥷 **Penetration Testing & Security Research**
+- **Web Application Security**
+- **IoT & Connected Device Security**
+- **Drone / UAV Security and Air Defense**
+- **Penetration Testing & Security Research**
 
 ### My Approach
 
@@ -120,50 +77,26 @@ Learn how to secure it
 
 ---
 
-## 🧪 Projects
+## ¤ Projects
 
-🚧 **Currently building...**
+》 **◇ Check out my Repositories for my projects**
 
-I'm working on projects related to:
-
-- 🐍 Python Automation
-- 🤖 Automation Bots
-- 🥷 Security Tools
-- 🌐 Web Security
-- 📡 IoT Experiments
-- ⚙️ Connected Devices
-- 🛸 Drone Technology
-
-> **More projects coming soon. ⚡**
+> **More projects coming soon. **
 
 ---
 
 ## 📚 Learning & Building With
 
-- 🥷 TCM Security Training
-- 🌐 PortSwigger Web Security Academy
-- 🧪 Hands-on Labs
-- ⚙️ Practical Projects & Experimentation
+- 》 TCM Security Training
+- 》 PortSwigger Web Security Academy
+- 》 Hands-on Labs
+- 》 Practical Projects & Experimentation
 
 ---
 
-## 🧠 Mindset
+## 🕳 Mindset
 
 > **Don't just run the tool. Understand what the tool is doing.**
-
-### ☠️ DON'T
-
-- Copy commands blindly
-- Memorize exploits without understanding
-- Depend completely on automated tools
-
-### ⚡ DO
-
-- Understand the technology
-- Understand the system
-- Understand the vulnerability
-- Understand the attack
-- Understand the defense
 
 ---
 
@@ -181,28 +114,20 @@ I'm working on projects related to:
 
 ## 🌍 Connect With Me
 
-🐙 **GitHub:** `github.com/quincyomoruyi6-lang`
+》 **GitHub:** `github.com/quincyomoruyi6-lang`
 
-📧 **Email:** `quinex_amd@proton.me`
-
----
-
-## ⚡ Fun Fact
-
-> I'm the type of person who looks at a website, IoT device, drone, or random piece of technology and immediately thinks:
->
-> **"How the hell does this thing actually work?"** 🧠⚙️🛸
+》 **Email:** `quinex_amd@proton.me`
 
 ---
 
 <p align="center">
 
-## ⚡ BREAK. BUILD. UNDERSTAND. REPEAT.
+## BREAK. BUILD. UNDERSTAND. REPEAT.
 
-**Thanks for visiting my profile.**
+**You know why you are here bro lets build together.**
 
-🕷️ Explore the repositories.  
-⚙️ Watch the projects grow.  
-🥷 The journey is just getting started.
+{ Explore the repositories.  
+{ Watch the projects grow.  
+{ The journey is just getting started.
 
 </p>
