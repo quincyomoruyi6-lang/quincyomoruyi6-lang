@@ -3,14 +3,16 @@
 ☢️ I'm obsessed with understanding **how things actually work beneath the surface**.
 Web applications. Connected devices. IoT. Networks. Hardware. Drones. ⚙️
 
-//......It all started with me always being nerdy moving through the years of learning html css networking python and the core hacking methodology.
-When I thought there wasn't any progress I was so stupid on how far I have come though am not yet where I want to be but I have gotten to a point where I could independently handle stuffs 
+//......It all started with me always being nerdy moving through the years of learning html css networking python, the core hacking methodology and still counting.
+When I thought there wasn't any progress I was so stupid on not knowing how far I have come. though am not yet where I want to be but I have gotten to a point where I could independently handle stuffs 
+
+//......I am growing into someone who would look at a system device or drone and understand not just how to exploit it but also understand where and where it should be secured and patched and nevertheless beyond my career as a  security researcher I also want to put an end to child labor because I believe children have rights and owe no debt to anybody as they weren't the ones who forced themselves into earth.
 
 > **//.......I want to understand systems. Build with them. Break them nerdy. Secure it like the bag. Then go deeper. **
 
 ---
 
-## 📛 About Me
+## 📛 What Am Up To 
 
 - 🔞 Learning **Ethical Hacking & Penetration Testing**
 - Focused on **Web Application Security Currently **
