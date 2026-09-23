@@ -19,7 +19,7 @@ When I thought there wasn't any progress I was so stupid on not knowing how far 
 - □ moving into **IoT Security** when done with web hacking
 - □ Obsessed with **Drones & UAV Technology** even tho I haven't gotten one yet its my passion and currently practicing on my simulator
 - □ Interested in **Hardware, Connected Devices & How Technology Works** cause i want to pivot into UAV hacking and security 
-- □ Building projects with **Python** and  Mostly automating my web workflows when I got time
+- □ Building projects with **Python** and  experimenting with **C**
 - □ Learning through **Hands-on Labs & Practical Experimentation** sometimes find it hard documenting but its part of the grind and discipline 
 
 ---
@@ -62,6 +62,7 @@ I'm building toward becoming highly skilled in:
 - **IoT & Connected Device Security**
 - **Drone / UAV Security and Air Defense**
 - **Penetration Testing & Security Research**
+- **Later on exploit development**
 
 ### My Approach
 
