@@ -11,11 +11,9 @@ When I thought there wasn't any progress I was so stupid on not knowing how far 
 > **//.......I want to understand systems. Build with them. Break them nerdy. Secure it like the bag. Then go deeper. **
 
 ---
-
 ## 📛 What Am Up To 
 
-- 🔞 Learning **Ethical Hacking & Penetration Testing**
-- Focused on **Web Application Security Currently **
+- 🔞 Learning **Web Security,Offset and Red teaming
 - □ moving into **IoT Security** when done with web hacking
 - □ Obsessed with **Drones & UAV Technology** even tho I haven't gotten one yet its my passion and currently practicing on my simulator
 - □ Interested in **Hardware, Connected Devices & How Technology Works** cause i want to pivot into UAV hacking and security 
@@ -23,49 +21,41 @@ When I thought there wasn't any progress I was so stupid on not knowing how far 
 - □ Learning through **Hands-on Labs & Practical Experimentation** sometimes find it hard documenting but its part of the grind and discipline 
 
 ---
-
 ## Obsessions
 - ♤ **Shenanigans**
 - ♤ **Space and Aero**
 - ♤ **Drones & UAV Technology**
 
 ---
-
 ## 🛠️ Skills & Tools
 
 ### 💻 Operating Systems
-
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ### 🐍 Programming
-
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
 ### 🥷 Cybersecurity
-
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white)
-
 ---
 
 ## ¤ Current Mission
-
 I'm building toward becoming highly skilled in:
 
-- **Web Application Security**
+- **Web Security**
 - **IoT & Connected Device Security**
 - **Drone / UAV Security and Air Defense**
 - **Penetration Testing & Security Research**
 - **Later on exploit development**
 
 ### My Approach
-
 Understand the technology  
 ↓  
 Build with it  
@@ -76,35 +66,29 @@ Test it ethically
 ↓  
 Understand the vulnerability  
 ↓  
-Learn how to secure it
-
+Learn how to secure it and pretty much become more nerdy 
 ---
 
 ## ¤ Projects
 
 》 **◇ Check out my Repositories for my projects**
-
-> **More projects coming soon. **
+> **More projects are still coming. So definitely expect more**
 
 ---
 
-## 📚 Learning & Building With
-
+## 🗺 Learning & Building With
 - 》 TCM Security Training
 - 》 PortSwigger Web Security Academy
-- 》 Hands-on Labs
-- 》 Practical Projects & Experimentation
+- 》 YouTube
+- 》 other resources and writeups from experienced hackers and discord community 
 
 ---
 
 ## 🕳 Mindset
-
-> **Don't just run the tool. Understand what the tool is doing.**
+> **Don't just run the tool. Understand what the tool is doing.** Don't focus on obsessing on a tool instead focus on understanding what the tool does the workflow builds on as your grow
 
 ---
-
 ## 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=quincyomoruyi6-lang&show_icons=true&theme=tokyonight" />
 </p>
@@ -116,21 +100,20 @@ Learn how to secure it
 ---
 
 ## 🌍 Connect With Me
-
 》 **GitHub:** `github.com/quincyomoruyi6-lang`
-
-》 **Email:** `quinex_amd@proton.me`
+》 **Email:** `quinex_amd@proton.me` **OR** `quincyomoruyi6@gmail.com` 
+》 **Socials** `check my bio`
 
 ---
-
+## /.......We ain't gonna be here forever we all have a goal to achieve so very soon you are definitely gonna see a lot of exploit development when am getting deep into advanced Red teaming and exploit development 
 <p align="center">
 
 ## BREAK. BUILD. UNDERSTAND. REPEAT.
 
 **You know why you are here bro lets build together.**
 
-{ Explore the repositories.  
-{ Watch the projects grow.  
-{ The journey is just getting started.
+● Explore the repositories.  
+● Watch the projects grow.  
+● The journey is just getting started.
 
 </p>
