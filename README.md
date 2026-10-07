@@ -3,7 +3,7 @@
 ☢️ //..... obsessed with understanding **how things actually work beneath the surface**.
 
 <p align="center">
-# All things Hacking 
+All things Hacking $%#$!
 </p>
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
